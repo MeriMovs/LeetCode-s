@@ -1,14 +1,14 @@
 # done
 
-~~1) https://leetcode.com/problems/contains-duplicate/~~  
-~~2) https://leetcode.com/problems/missing-number/~~  
-~~3) https://leetcode.com/problems/sort-colors/~~  
-~~4) https://leetcode.com/problems/search-insert-position/~~  
-~~5) https://leetcode.com/problems/first-bad-version/~~  
-~~6) https://leetcode.com/problems/sort-an-array/~~  
-~~7) https://leetcode.com/problems/maximum-gap/~~
+1) https://leetcode.com/problems/contains-duplicate/  
+2) https://leetcode.com/problems/missing-number/
+3) https://leetcode.com/problems/sort-colors/ 
+4) https://leetcode.com/problems/search-insert-position/  
+5) https://leetcode.com/problems/first-bad-version/
+6) https://leetcode.com/problems/sort-an-array/
+7) https://leetcode.com/problems/maximum-gap/
 
-~~https://leetcode.com/problems/edit-distance/~~
+https://leetcode.com/problems/edit-distance/
 
 ---
 ---
