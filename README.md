@@ -1,4 +1,4 @@
-# done
+## Done
 
 1) https://leetcode.com/problems/contains-duplicate/  
 2) https://leetcode.com/problems/missing-number/
@@ -10,8 +10,11 @@
 
 https://leetcode.com/problems/edit-distance/
 
+https://leetcode.com/problems/minimum-path-sum/
+
+
 ---
----
+## ToDo
 
 https://leetcode.com/problems/binary-tree-paths/description/
 
@@ -22,8 +25,6 @@ https://leetcode.com/problems/n-queens/description/
 https://leetcode.com/problems/unique-paths/
 
 https://leetcode.com/problems/largest-perimeter-triangle/
-
-https://leetcode.com/problems/minimum-path-sum/
 
 https://leetcode.com/problems/longest-increasing-subsequence/
 
