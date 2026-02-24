@@ -12,9 +12,13 @@ https://leetcode.com/problems/edit-distance/
 
 https://leetcode.com/problems/minimum-path-sum/
 
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
 
 ---
 ## ToDo
+
+https://leetcode.com/problems/k-th-smallest-prime-fraction/
 
 https://leetcode.com/problems/binary-tree-paths/description/
 
