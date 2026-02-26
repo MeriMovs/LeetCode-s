@@ -1,44 +1,60 @@
-## Done
+~~https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/~~
 
-1) https://leetcode.com/problems/contains-duplicate/  
-2) https://leetcode.com/problems/missing-number/
-3) https://leetcode.com/problems/sort-colors/ 
-4) https://leetcode.com/problems/search-insert-position/  
-5) https://leetcode.com/problems/first-bad-version/
-6) https://leetcode.com/problems/sort-an-array/
-7) https://leetcode.com/problems/maximum-gap/
+------
+## Sorting and related
+~~1) https://leetcode.com/problems/contains-duplicate/~~
 
-https://leetcode.com/problems/edit-distance/
+~~2) https://leetcode.com/problems/missing-number/~~
 
-https://leetcode.com/problems/minimum-path-sum/
+~~3) https://leetcode.com/problems/sort-colors/~~
 
-https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+~~4) https://leetcode.com/problems/search-insert-position/~~
 
+~~5) https://leetcode.com/problems/first-bad-version/~~
 
----
-## ToDo
+~~6) https://leetcode.com/problems/sort-an-array/~~
 
-https://leetcode.com/problems/k-th-smallest-prime-fraction/
+~~7) https://leetcode.com/problems/maximum-gap/~~
 
-https://leetcode.com/problems/binary-tree-paths/description/
+------
 
-https://leetcode.com/problems/generate-parentheses/description/
+## Dynamic programming
 
-https://leetcode.com/problems/n-queens/description/
+~~1) https://leetcode.com/problems/minimum-path-sum/~~
 
-https://leetcode.com/problems/unique-paths/
+2) https://leetcode.com/problems/jump-game/
 
-https://leetcode.com/problems/largest-perimeter-triangle/
+3) https://leetcode.com/problems/jump-game-ii/
 
-https://leetcode.com/problems/longest-increasing-subsequence/
+4) https://leetcode.com/problems/coin-change/description/
 
-https://leetcode.com/problems/decode-ways/description
+5) https://leetcode.com/problems/longest-increasing-subsequence/
 
-https://leetcode.com/problems/coin-change/description/
+6) https://leetcode.com/problems/longest-common-subsequence/
 
-https://leetcode.com/problems/longest-common-subsequence/
+~~7) https://leetcode.com/problems/edit-distance/~~
 
-https://leetcode.com/problems/sudoku-solver/
+------
+
+## Brute force and Backtracking
+
+1) https://leetcode.com/problems/binary-tree-paths/description/
+
+2) https://leetcode.com/problems/generate-parentheses/description/
+
+3) https://leetcode.com/problems/n-queens/description/
+
+4) https://leetcode.com/problems/unique-paths/
+
+5) https://leetcode.com/problems/largest-perimeter-triangle/
+
+6) https://leetcode.com/problems/decode-ways/description
+
+7) https://leetcode.com/problems/sudoku-solver/
+
+ -----
+
+## Graphs
 
 https://leetcode.com/problems/find-center-of-star-graph
 
