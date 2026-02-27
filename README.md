@@ -22,15 +22,15 @@
 
 ~~1) https://leetcode.com/problems/minimum-path-sum/~~
 
-2) https://leetcode.com/problems/jump-game/
+~~2) https://leetcode.com/problems/jump-game/~~
 
-3) https://leetcode.com/problems/jump-game-ii/
+~~3) https://leetcode.com/problems/jump-game-ii/~~
 
 4) https://leetcode.com/problems/coin-change/description/
 
 5) https://leetcode.com/problems/longest-increasing-subsequence/
 
-6) https://leetcode.com/problems/longest-common-subsequence/
+~~6) https://leetcode.com/problems/longest-common-subsequence/~~
 
 ~~7) https://leetcode.com/problems/edit-distance/~~
 
