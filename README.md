@@ -44,36 +44,21 @@
 
 ------
 
-## Brute force and Backtracking
-
-1) https://leetcode.com/problems/binary-tree-paths/description/
-
-2) https://leetcode.com/problems/generate-parentheses/description/
-
-3) https://leetcode.com/problems/n-queens/description/
-
-4) https://leetcode.com/problems/unique-paths/
-
-5) https://leetcode.com/problems/largest-perimeter-triangle/
-
-6) https://leetcode.com/problems/decode-ways/description
-
-7) https://leetcode.com/problems/sudoku-solver/
-
- -----
-
 ## Graphs
+1) https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+   
+~~2) https://leetcode.com/problems/find-center-of-star-graph~~
 
-https://leetcode.com/problems/find-center-of-star-graph
+3) https://leetcode.com/problems/number-of-islands/
+  
+4) https://leetcode.com/problems/word-search/
 
-https://leetcode.com/problems/word-search/
+5) https://leetcode.com/problems/island-perimeter/
 
-https://leetcode.com/problems/island-perimeter/
+6) https://leetcode.com/problems/course-schedule/
 
-https://leetcode.com/problems/course-schedule/
+7) https://leetcode.com/problems/course-schedule-ii/description/
 
-https://leetcode.com/problems/course-schedule-ii/description/
+8) https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
 
-https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/
-
-https://leetcode.com/problems/min-cost-to-connect-all-points/description/
+9) https://leetcode.com/problems/min-cost-to-connect-all-points/description/
