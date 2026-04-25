@@ -45,7 +45,7 @@
 ------
 
 ## Graphs
-1) https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+~~1) https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/~~
    
 ~~2) https://leetcode.com/problems/find-center-of-star-graph~~
 
